@@ -1,0 +1,13 @@
+1) Update npm:
+      Clear npm’s cache and install the n module:
+
+$ sudo npm cache clean -f
+$ sudo npm install -g n
+
+
+2) Update to the latest stable version of Node.js:
+
+$ sudo n stable
+
+
+3) Open new shell to check the version to be updated or not.
